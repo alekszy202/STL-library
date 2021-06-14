@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\olasz\source\repos\Containers\Containers\Tree.h(1017): warning C4715: "Tree<int>::findIfExist”: niewszystkie ścieżki kodu zwracają wartość
+  Containers.vcxproj -> C:\Users\olasz\source\repos\Containers\Debug\Containers.exe
